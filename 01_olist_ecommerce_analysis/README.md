@@ -33,8 +33,6 @@ to identify revenue trends, customer behavior, and business insights.
 7. Payment Type Analysis
 8. Review Score Distribution
 
-## Charts
-![Monthly Revenue](charts/monthly_revenue.png)
-![Top Categories](charts/top_categories.png)
-![Payment Type](charts/payment_type.png)
-![Review Scores](charts/review_scores.png)
+## Dashboard
+![Power BI Dashboard](powerbi/dashboard_screenshot.png)
+
